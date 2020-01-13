@@ -1,0 +1,18 @@
+{
+  "name": "dingdingorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prod-view-server.js",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.19.1",
+    "opn": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
